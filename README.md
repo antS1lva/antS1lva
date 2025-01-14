@@ -10,15 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Finishing my degree in Computer Science**
+ 🔭 I’m currently working on **finishing my degree in Computer Science.**
  
- 🌱 I’m currently improving apon my skils in **C++, C#, Firebase**
+ 🌱 I’m improving my skills in **C++, C#, and Firebase.**
 
- 🎯 From a hardware prefective im also improving apon driver creation / hardware direct ascess.
+ 🎯 From a hardware perspective, I’m also exploring **driver creation and direct hardware access.**
 
-💬 Ask me about **Java, C or anything [here](https://github.com/antS1lva/antS1lva/issues)**
+💬 Ask me about **Java, C, or anything [here](https://github.com/antS1lva/antS1lva/issues).**
 
-⚡ Fun fact **The first computer virus was created as an experiment by two brothers from Pakistan in 1986!**
+⚡ Fun fact: **The first computer virus was created as an experiment by two brothers from Pakistan in 1986!**
 
  </div>
  
@@ -29,8 +29,8 @@
   <a href="https://linkedin.com/in/antonio-silva-7041a42a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://example.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
