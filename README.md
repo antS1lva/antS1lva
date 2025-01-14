@@ -18,7 +18,7 @@
 
 💬 Ask me about **Java, C, or anything [here](https://github.com/antS1lva/antS1lva/issues).**
 
-⚡ Fun fact: **The first computer virus was created as an experiment by two brothers from Pakistan in 1986!**
+⚡ Fun fact: **In 2024, I took a leap and opened my first business, a small gym studio. Check it out at [studiot7.com](https://studiot7.com)!** 
 
  </div>
  
